@@ -1,0 +1,53 @@
+.summary-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 18px;
+  color: #007bff;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ch-div {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.child {
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 14px;
+  padding: 20px;
+  margin: 20px;
+}
+.child {
+  height: auto;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: 14px;
+  padding: 20px;
+  margin: 20px;
+  width: 200px;
+}
+
+.child1 {
+  flex: 1;
+}
+
+.child2 {
+  flex: 2;
+}

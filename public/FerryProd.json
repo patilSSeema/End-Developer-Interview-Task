@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Ferry from Port Blair to Havelock",
+    "description": "Explore the beautiful Havelock Island with our ferry service.",
+    "image": "https://ik.imagekit.io/seesan/FerryPhotos/Ferry%20from%20Port%20Blair%20to%20Havelock.jpeg?updatedAt=1697480273754"
+  },
+  {
+    "id": "2",
+    "title": "Ferry from Havelock to Neil",
+    "description": "Travel from Havelock to Neil Island for a memorable experience.",
+    "image": "https://ik.imagekit.io/seesan/FerryPhotos/Ferry%20from%20Havelock%20to%20Neil.jpg?updatedAt=1697480273381"
+  },
+  {
+    "id": "3",
+    "title": "Ferry from Neil to Port Blair",
+    "description": "Convenient ferry service from Neil Island to Port Blair.",
+    "image": "https://ik.imagekit.io/seesan/FerryPhotos/Ferry%20from%20Neil%20to%20Port%20Blair.jpg?updatedAt=1697480273387"
+  },
+  {
+    "id": "4",
+    "title": "Ferry from Port Blair to Havelock to Neil and back to Port Blair",
+    "description": "All-in-one round-trip ferry service to explore the Andaman Islands.",
+    "image": "https://ik.imagekit.io/seesan/FerryPhotos/Ferry%20from%20Port%20Blair%20to%20Havelock%20to%20Neil%20and%20back%20to%20Port.jpg?updatedAt=1697480273163"
+  }
+]

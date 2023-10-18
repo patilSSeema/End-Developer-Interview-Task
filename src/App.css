@@ -1,0 +1,35 @@
+.display {
+  display: flex;
+  flex-wrap: wrap;
+}
+.display img {
+  height: 200px;
+  width: 300px;
+}
+.title {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: left;
+  max-width: 300px;
+}
+.navdiv {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+.navdiv h2 {
+  margin-top: 0;
+  padding-bottom: 10px;
+}
+.navdiv img {
+  height: 50px;
+  width: 80px;
+}
+.navdiv .link {
+  text-decoration: none;
+  color: white;
+}
